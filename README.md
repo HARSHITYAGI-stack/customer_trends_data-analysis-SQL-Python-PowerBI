@@ -1,6 +1,8 @@
 #  👨🏻‍💻 customer_behavior_data-analysis-Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
+# Final Dashboard
+https://github.com/HARSHITYAGI-stack/customer_trends_data-analysis-SQL-Python-PowerBI/blob/4d75e6d91f6b75c2d2cc7260160be1f67697d130/Dashboard/powerBI_dashboard.pdf
 
 
 ## 📌 Project Overview
